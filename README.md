@@ -10,7 +10,7 @@
 
 ```yaml
 pseudonym: Luxcih
-pronounciation: Laks-kih
+pronunciation: Laks-kih
 pronouns: ["He", "Him"]
 email: luxcih.me@gmail.com
 location: Philippines
